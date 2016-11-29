@@ -15,7 +15,6 @@ public class TextList {
 			System.out.println("++false+");
 		}
     	
-    	
 //    	int i = 2;
 //    	String b = i+"";
 //    	System.out.println(i+"");
